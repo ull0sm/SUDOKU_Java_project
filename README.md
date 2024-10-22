@@ -1,4 +1,1 @@
-### our first java project
-
-
-Nandha
+### Our First Java Project
